@@ -49,9 +49,9 @@
         "cn-lite/0": false
     },
     "cuda": {
-        "enabled": false,
-        "loader": null,
-        "nvml": true,
+        "enabled": true,
+        "loader": "/home/ramses/current_workdir/xmrig-cuda/build/libxmrig-cuda.so",
+        "nvml": false,
         "cn/0": false,
         "cn-lite/0": false
     },
